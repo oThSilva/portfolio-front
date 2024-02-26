@@ -1,5 +1,6 @@
 import { GitHubIcon } from "../icons/github-icon";
 import { LinkedInIcon } from "../icons/linkedin-icon";
+import { CvIcon } from "../icons/cv-icon";
 
 
 import "./social-btns.scss"
@@ -15,7 +16,9 @@ export function SocialBtns(props: SocialBtnsProps) {
             <a href="https://www.linkedin.com/in/thiago-pereira-a19090165/" target="_blank">
                 <LinkedInIcon />
             </a>
-            <a href="https://mega.nz/file/OqgSmKKI#TJy7cG8nphQheRV0f4yy5-AQ5ng6RDy7VzNdG8CM2oA" target="_black" >CV</a>
+            <a href="https://mega.nz/file/OqgSmKKI#TJy7cG8nphQheRV0f4yy5-AQ5ng6RDy7VzNdG8CM2oA" target="_black" >
+                <CvIcon />
+            </a>
         </div>
     )
 }
