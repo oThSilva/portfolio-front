@@ -8,7 +8,7 @@ export function Experience() {
         <div className="experiencia">
             <SectionTitle text="Experiência" />
             <p>
-                Eu sou Thiago, 23 anos, estudante de desenvolvimento de software com foco em back end e front end. Procuro minha primeira oportunidade profissional em tecnologia. Atualmente, trabalho em projetos utilizando React e Django, aplicando API/REST com métodos HTTP GET e POST, e integro com bancos de dados relacionais. Além disso, desenvolvo projetos responsivos com JavaScript, HTML e CSS.</p>
+                Eu sou Thiago, 24 anos, estudante de desenvolvimento de software com foco em back end e front end. Procuro minha primeira oportunidade profissional em tecnologia. Atualmente, trabalho em projetos utilizando React e Django, aplicando API/REST com métodos HTTP GET e POST, e integro com bancos de dados relacionais. Além disso, desenvolvo projetos responsivos com JavaScript, HTML e CSS.</p>
             <div className="tempo-experiencia">
                 <div className="experience-language">
                     <Image
