@@ -8,7 +8,7 @@ export function Info() {
             <SectionTitle text="Idiomas" />
             <div className="infos-linguagens">
                 <span>PT-BR - Língua Nativa </span>
-                <span>EN - Básico</span>
+                <span>EN - Básico intermediário</span>
             </div>
             <SectionTitle text="Educação" />
             <div className="infos-educacao">

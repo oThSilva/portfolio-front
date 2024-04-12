@@ -16,7 +16,7 @@ export function SocialBtns(props: SocialBtnsProps) {
             <a href="https://www.linkedin.com/in/thiago-pereira-a19090165/" target="_blank">
                 <LinkedInIcon />
             </a>
-            <a href="https://mega.nz/file/OqgSmKKI#TJy7cG8nphQheRV0f4yy5-AQ5ng6RDy7VzNdG8CM2oA" target="_black" >
+            <a href="https://mega.nz/file/GmZzwJAQ#sfyNk3Rl3jsZ3g4TXsfeNgSpJm0kp_hMjwSsZzceP_c" target="_black" >
                 <CvIcon />
             </a>
         </div>
