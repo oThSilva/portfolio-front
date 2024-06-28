@@ -8,13 +8,21 @@ export function Info() {
             <SectionTitle text="Idiomas" />
             <div className="infos-linguagens">
                 <span>PT-BR - Língua Nativa </span>
-                <span>EN - Básico intermediário</span>
+                <span>INGLÊS - Básico intermediário</span>
             </div>
             <SectionTitle text="Educação" />
             <div className="infos-educacao">
-                <span>Desenvolvimento Back End – Unopar
-                </span>
-                <span></span>
+                <p> English Online - British Council - Cursando
+                    <br /> Python AI Backend Developer - DIO - Cursando
+                    <br /> Fundamentos de IA para Devs - DIO - Cursando
+                    <br /> Tecnologo em Desenvolvimento Back End – Unopar - 06/2024
+                </p>
+                {/* <ul>
+                    <li>English Online - British Council - Cursando</li>
+                    <li>Python AI Backend Developer - Digital Innovation One - Cursando</li>
+                    <li>Fundamentos de IA para Devs - Digital Innovation One - Cursando</li>
+                    <li>Tecnologo em Desenvolvimento Back End – Unopar - 06/2024</li>
+                </ul> */}
             </div>
 
         </div>

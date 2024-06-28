@@ -6,10 +6,19 @@ import "./experience.scss"
 export function Experience() {
     return (
         <div className="experiencia">
-            <SectionTitle text="Experiência" />
             <p>
-                Eu sou Thiago, 24 anos, estudante de desenvolvimento de software com foco em back end e front end. Procuro minha primeira oportunidade profissional em tecnologia. Atualmente, trabalho em projetos utilizando React e Django, aplicando API/REST com métodos HTTP GET e POST, e integro com bancos de dados relacionais. Além disso, desenvolvo projetos responsivos com JavaScript, HTML e CSS.</p>
-            <div className="tempo-experiencia">
+                Olá, seja bem-vindo(a) à minha página web! Aqui, você encontrará informações sobre mim e minhas habilidades. <br />
+
+                Meu nome é Thiago, tenho 24 anos. Meu objetivo é trabalhar com desenvolvimento de sistemas, sou formado em desenvolvimento back end, além disso, tenho um sólido conhecimento em Front End.
+
+                Tenho experiência no desenvolvimento de websites com Django, criação e consumo de APIs REST e conhecimento prático em Python. Realizo integração com bancos de dados relacionais, como SQLite e MySQL. Também desenvolvo projetos responsivos utilizando JavaScript, HTML e CSS, usando tecnologias como React, Next.js, Sass e TypeScript.
+
+
+                {/* Eu sou Thiago, tenho 24 anos, sou formado em desenvolvimento back end e tenho conhecimento em Front End. Procuro minha primeira oportunidade profissional em tecnologia. Atualmente, faço  projetos utilizando React, Django, aplicando API/REST, faço integração com bancos de dados relacionais. Além disso, desenvolvo projetos responsivos com JavaScript, HTML e CSS. */}
+            </p>
+        </div>
+    )
+    {/* <div className="tempo-experiencia">
                 <div className="experience-language">
                     <Image
                         src="/JavaScript.png"
@@ -58,10 +67,10 @@ export function Experience() {
                     />
                     <div className="experience-unit">
                         <div className="experience-measure measure-2"> <span> 6 meses </span>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    )
+                        </div> */}
+
+    //             </div >
+    //         </div >
+    //     </div >
+    // )
 }

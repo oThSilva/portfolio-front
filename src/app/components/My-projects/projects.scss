@@ -1,0 +1,17 @@
+.projects-style {
+
+    a {
+        color: var(--text-primary);
+        display: flex;
+        // flex-direction: column;
+        // gap: 24px;
+
+    }
+
+    p {
+        color: var(--text-secondary);
+    }
+
+    grid-area: projects;
+
+}
