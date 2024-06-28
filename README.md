@@ -11,5 +11,5 @@ Este é um website de apresentação profissional responsivo, desenvolvido com R
 
 ## Funcionalidades
 - Website responsivo para diferentes dispositivos
-- Listagem das tecnologias com as quais você tem conhecimento
+- Listagem das tecnologias com as quais tenho conhecimento
 
