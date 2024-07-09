@@ -9,7 +9,7 @@ export function Experience() {
             <p>
                 Olá, seja bem-vindo(a) à minha página web! Aqui, você encontrará informações sobre mim e minhas habilidades. <br />
 
-                Meu nome é Thiago, tenho 24 anos. Meu objetivo é trabalhar com desenvolvimento de sistemas, sou formado em desenvolvimento back end, além disso, tenho um sólido conhecimento em Front End.
+                Meu nome é Thiago, tenho 24 anos. Meu objetivo é trabalhar com desenvolvimento de sistemas, sou formado em desenvolvimento back end e tenho um sólido conhecimento em Front End.
 
                 Tenho experiência no desenvolvimento de websites com Django, criação e consumo de APIs REST e conhecimento prático em Python. Realizo integração com bancos de dados relacionais, como SQLite e MySQL. Também desenvolvo projetos responsivos utilizando JavaScript, HTML e CSS, usando tecnologias como React, Next.js, Sass e TypeScript.
 
