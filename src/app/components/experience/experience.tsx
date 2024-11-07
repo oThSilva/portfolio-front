@@ -7,12 +7,8 @@ export function Experience() {
     return (
         <div className="experiencia">
             <p>
-                Olá, seja bem-vindo(a) à minha página web! Aqui, você encontrará informações sobre mim e minhas habilidades. <br />
-
-                Meu nome é Thiago, tenho 24 anos. Meu objetivo é trabalhar com desenvolvimento de sistemas, sou formado em desenvolvimento back end e tenho um sólido conhecimento em Front End.
-
-                Tenho experiência no desenvolvimento de websites com Django, criação e consumo de APIs REST e conhecimento prático em Python. Realizo integração com bancos de dados relacionais, como SQLite e MySQL. Também desenvolvo projetos responsivos utilizando JavaScript, HTML e CSS, usando tecnologias como React, Next.js, Sass e TypeScript.
-
+                Olá, seja bem-vindo(a) à minha página web! Aqui você encontrará informações sobre mim e minhas habilidades. <br />
+                Meu nome é Thiago, tenho 24 anos. Meu objetivo é trabalhar como analista de qualidade (QA, QAE, SDET). Sou formado no curso superior de tecnologia em desenvolvimento back-end, tenho conhecimento prático em automação front-end com Robot Framework, teste de API Restful com Postman, gerenciamento de testes, criação de cenários de teste com Cucumber/Gherkin utilizando BDD, conhecimento em banco de dados relacionais SQL Server e não relacionais MongoDB, tenho experiência com utilização de Inteligência Artificial para otimização de tarefas. Organizo meus projetos com o uso do quadro Kanban e aplico metodologias ágeis como Scrum.
 
                 {/* Eu sou Thiago, tenho 24 anos, sou formado em desenvolvimento back end e tenho conhecimento em Front End. Procuro minha primeira oportunidade profissional em tecnologia. Atualmente, faço  projetos utilizando React, Django, aplicando API/REST, faço integração com bancos de dados relacionais. Além disso, desenvolvo projetos responsivos com JavaScript, HTML e CSS. */}
             </p>

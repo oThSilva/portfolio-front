@@ -6,6 +6,14 @@ export function Projects() {
             <div className="projects-style" >
                 <h3>Projetos </h3>
 
+                <h3><br />Projeto Automação de teste</h3>
+                <p className="django-link">
+                    Este repositório contém um conjunto de testes automatizados com Robot Framework para o site English Pass. O objetivo do projeto é assegurar a qualidade, garantindo o cumprimento dos critérios de aceite.
+                    <br />
+                    Tecnologias: Robot Framework, Python.
+                </p>
+                <a href="https://github.com/oThSilva/Automacao-English-Pass" target="_blank">Link do repositório</a>
+
                 <h3> <br /> Portfolio Front End</h3>
                 <p>
                     Este é um website de apresentação profissional responsivo. O site lista as tecnologias com as quais tenho conhecimento e foi criado para destacar minhas habilidades e experiências.
