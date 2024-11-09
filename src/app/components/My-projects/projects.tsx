@@ -8,7 +8,7 @@ export function Projects() {
 
                 <h3><br />Projeto Automação de teste</h3>
                 <p className="django-link">
-                    Este repositório contém um conjunto de testes automatizados com Robot Framework para o site English Pass. O objetivo do projeto é assegurar a qualidade, garantindo o cumprimento dos critérios de aceite.
+                    Projeto de testes automatizados com Robot Framework para o site English Pass. O objetivo do projeto é assegurar a qualidade, garantindo o cumprimento dos critérios de aceite.
                     <br />
                     Tecnologias: Robot Framework, Python.
                 </p>
