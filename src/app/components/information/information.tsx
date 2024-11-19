@@ -12,17 +12,11 @@ export function Info() {
             </div>
             <SectionTitle text="Educação" />
             <div className="infos-educacao">
-                <p> English Online - British Council - Cursando
-                    <br /> Python AI Backend Developer - DIO - Cursando
-                    <br /> Fundamentos de IA para Devs - DIO - Cursando
-                    <br /> Tecnologo em Desenvolvimento Back End – Unopar - 06/2024
+                <p> Inglês | British Council | 2024 – Cursando <br />
+                    <br /> Teste de Software | Coursera | 2024 <br />
+                    <br /> Tecnologo em Desenvolvimento Back-End | UNOPAR | 2022 – 2024 <br />
+                    <br /> Técnico em hardware | Senac | 2015
                 </p>
-                {/* <ul>
-                    <li>English Online - British Council - Cursando</li>
-                    <li>Python AI Backend Developer - Digital Innovation One - Cursando</li>
-                    <li>Fundamentos de IA para Devs - Digital Innovation One - Cursando</li>
-                    <li>Tecnologo em Desenvolvimento Back End – Unopar - 06/2024</li>
-                </ul> */}
             </div>
 
         </div>
