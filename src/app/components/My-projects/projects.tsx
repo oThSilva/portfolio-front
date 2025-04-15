@@ -26,7 +26,7 @@ export function Projects() {
                     de teste e massa de dados para validar a API, incluindo testes de integração entre os
                     serviços e validação de payloads, headers e responses.
                     <br />
-                    Tecnologias: Robot Framework, Request Library, Ptyhon.
+                    Tecnologias: Robot Framework, Request Library, Python.
                 </p>
                 <a href="https://github.com/oThSilva/API-Automation" target="_blank">Link do repositório</a>
                 <br />
@@ -45,9 +45,9 @@ export function Projects() {
                 <br />
                 <h3>Portfolio Front End</h3>
                 <p className="django-link">
-                    EEste é um website de apresentação profissional responsivo. O site lista as tecnologias com as quais tenho conhecimento e foi criado para destacar minhas habilidades e experiências.
+                    Este é um website de apresentação profissional responsivo. O site lista as tecnologias com as quais tenho conhecimento e foi criado para destacar minhas habilidades e experiências.
                     <br />
-                    Tecnologias: eact.js, Next.js, Sass, TypeScript.
+                    Tecnologias: React.js, Next.js, Sass, TypeScript.
                 </p>
                 <a href="https://github.com/oThSilva/portfolio-front" target="_blank">Link do repositório</a>
                 <br />
